@@ -1,4 +1,3 @@
-<strong>First run the Sever using "scala server.js"</strong>
+#First run the Sever using "scala server.js"
 
-<strong> Then test by doing telnet localhost portnumber</strong>
-
+###Then test by doing telnet localhost portnumber
